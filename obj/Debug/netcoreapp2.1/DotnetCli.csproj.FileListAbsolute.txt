@@ -1,0 +1,11 @@
+/Users/revsbech/Docker/Projects/Sampension/DotnetCli/bin/Debug/netcoreapp2.1/DotnetCli.deps.json
+/Users/revsbech/Docker/Projects/Sampension/DotnetCli/bin/Debug/netcoreapp2.1/DotnetCli.runtimeconfig.json
+/Users/revsbech/Docker/Projects/Sampension/DotnetCli/bin/Debug/netcoreapp2.1/DotnetCli.runtimeconfig.dev.json
+/Users/revsbech/Docker/Projects/Sampension/DotnetCli/bin/Debug/netcoreapp2.1/DotnetCli.dll
+/Users/revsbech/Docker/Projects/Sampension/DotnetCli/bin/Debug/netcoreapp2.1/DotnetCli.pdb
+/Users/revsbech/Docker/Projects/Sampension/DotnetCli/obj/Debug/netcoreapp2.1/DotnetCli.csprojAssemblyReference.cache
+/Users/revsbech/Docker/Projects/Sampension/DotnetCli/obj/Debug/netcoreapp2.1/DotnetCli.csproj.CoreCompileInputs.cache
+/Users/revsbech/Docker/Projects/Sampension/DotnetCli/obj/Debug/netcoreapp2.1/DotnetCli.AssemblyInfoInputs.cache
+/Users/revsbech/Docker/Projects/Sampension/DotnetCli/obj/Debug/netcoreapp2.1/DotnetCli.AssemblyInfo.cs
+/Users/revsbech/Docker/Projects/Sampension/DotnetCli/obj/Debug/netcoreapp2.1/DotnetCli.dll
+/Users/revsbech/Docker/Projects/Sampension/DotnetCli/obj/Debug/netcoreapp2.1/DotnetCli.pdb
