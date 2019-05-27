@@ -1,0 +1,13 @@
+FROM microsoft/dotnet:sdk
+WORKDIR /app
+
+
+# First copy only dependency files, so a src code change does not bust cache!
+COPY *.csproj ./
+RUN dotnet restore
+
+# Then copy rest, and compile
+COPY . ./
+RUN dotnet publish -c Release -o out
+
+CMD dotnet run out/DotnetCli.dll
